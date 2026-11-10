@@ -1,0 +1,15 @@
+<resources>
+ <string name="link_family">Vínculos e avisos familiares</string>
+ <string name="invite">Criar convite consentido (24 horas)</string>
+ <string name="invite_code">Código de convite de uso único</string>
+ <string name="accept_invite">Aceitar convite</string>
+ <string name="invite_warning">Confirme com a pessoa assistida antes de convidar. O convite permite saúde, localização autorizada e avisos. Compartilhe apenas com quem deseja autorizar.</string>
+ <string name="consent_confirmed">A pessoa assistida concordou com este vínculo</string>
+ <string name="refresh">Atualizar vínculos e avisos</string>
+ <string name="revoke">Revogar acesso</string>
+ <string name="revoke_confirm">Revogar o acesso deste familiar?</string>
+ <string name="select_person">Selecionar pessoa vinculada</string>
+ <string name="alerts">Avisos familiares</string>
+ <string name="stop_remote">Desligar sincronização neste aparelho</string>
+ <string name="remote_delete">Excluir dados remotos (proprietário)</string>
+</resources>

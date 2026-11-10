@@ -1,0 +1,9 @@
+<resources>
+<string name="edit">Editar cadastro</string>
+<string name="appointment_speech">Lembrete de consulta: %1$s. Confira os preparos cadastrados.</string>
+<string name="single_profile">Este aparelho mantém um perfil por vez. Exporte e exclua os dados locais antes de mudar de pessoa.</string>
+<string name="remote_unconfirmed">Sem confirmação registrada. A sincronização pode estar atrasada.</string>
+<string name="heartbeat_alert">Sem comunicação desde %1$s. A causa não é conhecida.</string>
+<string name="charging">Carregador conectado ao aparelho</string>
+<string name="sync_error">Alguns dados não foram sincronizados. Consulte a auditoria e peça ajuda ao familiar.</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clinical_title">診察の記録</string>
+    <string name="clinical_local_only">音声・画像・テキストはこの端末内だけに保護して保存されます。自動送信はありません。</string>
+    <string name="clinical_manual_asr">自動文字起こしは未導入です。手入力またはテキストを読み込めます。内容は創作しません。</string>
+    <string name="clinical_consent">参加者が録音に同意しています。この画面を離れると録音は停止します。</string>
+    <string name="clinical_mic_ready">マイクが許可されました。録音ボタンで開始します。</string>
+    <string name="clinical_mic_denied">マイクは許可されていません。文字の入力や読み込みは可能です。</string>
+    <string name="clinical_unreadable">安全に認識できませんでした。原文を入力してください。</string>
+    <string name="clinical_ocr_review">認識したテキストを原本と照合してください。薬の登録は有効化されていません。</string>
+    <string name="clinical_error">完了できませんでした。空き容量を確認し、再試行してください。</string>
+    <string name="clinical_recording_stopped">画面を離れたため録音を停止しました。</string>
+    <string name="clinical_audio_saved">保護した音声を端末内に保存しました。</string>
+    <string name="clinical_stop">録音を停止して保存</string>
+    <string name="clinical_record">診察を録音</string>
+    <string name="clinical_recording_visible">録音中 — マイク使用中</string>
+    <string name="clinical_play">最新の音声を再生</string>
+    <string name="clinical_photo">文字認識用の画像を選択</string>
+    <string name="clinical_import">文字起こしテキストを読み込む</string>
+    <string name="clinical_source">原文・編集可能な文字起こし</string>
+    <string name="clinical_draft">下書きを保存して整理</string>
+    <string name="clinical_unvalidated">未確認の下書き</string>
+    <string name="clinical_medication">薬</string>
+    <string name="clinical_exam">検査</string>
+    <string name="clinical_return">再診</string>
+    <string name="clinical_guidance">指示</string>
+    <string name="clinical_evidence">%1$s・%2$d行目：%3$s</string>
+    <string name="clinical_no_publish">この下書きは通知を登録しません。家族が原文を確認し、該当画面で各項目を登録してください。</string>
+    <string name="clinical_review_saved">人による確認を記録しました。通知は有効化されていません。</string>
+    <string name="clinical_review">下書きの確認を記録</string>
+    <string name="clinical_retention">音声保存期間：%1$d日。この画面を開くと期限切れを削除します。</string>
+    <string name="clinical_days">%1$d日</string>
+    <string name="clinical_delete">端末内の診察ファイルを削除</string>
+    <string name="clinical_delete_confirm">この端末内の音声・画像・テキスト・下書きを完全に削除しますか？</string>
+    <string name="clinical_back">戻る</string>
+    <string name="clinical_cancel">キャンセル</string>
+</resources>

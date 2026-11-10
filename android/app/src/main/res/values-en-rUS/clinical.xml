@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clinical_title">Consultation memory</string>
+    <string name="clinical_local_only">Audio, images and text are protected on this device only. Nothing is uploaded automatically.</string>
+    <string name="clinical_manual_asr">Automatic transcription is not installed. Type or import a transcript; no text will be invented.</string>
+    <string name="clinical_consent">Participants consent to this recording. Recording stops when this screen closes.</string>
+    <string name="clinical_mic_ready">Microphone allowed. Tap Record to begin.</string>
+    <string name="clinical_mic_denied">Microphone denied. You can type or import text.</string>
+    <string name="clinical_unreadable">Could not recognize safely. Type the original text.</string>
+    <string name="clinical_ocr_review">Recognized text: check against the original document. No medication was activated.</string>
+    <string name="clinical_error">Could not complete. Check storage space and retry.</string>
+    <string name="clinical_recording_stopped">Recording stopped when leaving the screen.</string>
+    <string name="clinical_audio_saved">Protected audio saved on this device.</string>
+    <string name="clinical_stop">Stop and save recording</string>
+    <string name="clinical_record">Record consultation</string>
+    <string name="clinical_recording_visible">Recording — microphone active</string>
+    <string name="clinical_play">Play latest audio</string>
+    <string name="clinical_photo">Choose image for OCR</string>
+    <string name="clinical_import">Import text transcript</string>
+    <string name="clinical_source">Original text / editable transcript</string>
+    <string name="clinical_draft">Save and organize draft</string>
+    <string name="clinical_unvalidated">Unvalidated draft</string>
+    <string name="clinical_medication">Medications</string>
+    <string name="clinical_exam">Tests</string>
+    <string name="clinical_return">Follow-up</string>
+    <string name="clinical_guidance">Guidance</string>
+    <string name="clinical_evidence">%1$s · line %2$d: %3$s</string>
+    <string name="clinical_no_publish">This draft does not publish reminders. A caregiver must check the source and enter each item on the appropriate screen.</string>
+    <string name="clinical_review_saved">Human review recorded; no reminder was activated.</string>
+    <string name="clinical_review">Record draft review</string>
+    <string name="clinical_retention">Keep audio for %1$d days; removed when opening this screen.</string>
+    <string name="clinical_days">%1$d days</string>
+    <string name="clinical_delete">Delete local consultation files</string>
+    <string name="clinical_delete_confirm">Permanently delete audio, images, text and drafts from this device?</string>
+    <string name="clinical_back">Back</string>
+    <string name="clinical_cancel">Cancel</string>
+</resources>

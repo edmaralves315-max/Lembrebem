@@ -1,0 +1,13 @@
+name = "lembrebem"
+main = "src/worker.mjs"
+compatibility_date = "2025-10-01"
+[vars]
+FIREBASE_PROJECT_ID = "configure-project-id"
+PUSH_MODE = "demo"
+[triggers]
+crons = ["* * * * *"]
+[[d1_databases]]
+binding = "DB"
+database_name = "lembrebem"
+database_id = "configure-d1-id"
+migrations_dir = "migrations"

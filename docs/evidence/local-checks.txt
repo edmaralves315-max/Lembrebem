@@ -1,0 +1,33 @@
+PASS: 168 keys in each of 5 locales; 167 Kotlin resource references; XML and prohibited permissions checks.
+
+> lembrebem-backend@1.0.0 test
+> node --test --test-isolation=none
+
+✔ authentication, tenant isolation, revoke, single-use invite and private export (33.586994ms)
+✔ medication cron all authorized recipients, 15min, localized, dedup and late acknowledgement (11.821342ms)
+✔ confirmation before 15min cancels additional notification (3.129885ms)
+✔ human review and version conflict preserve clinical literals (2.100928ms)
+✔ battery thresholds deduplicate and real charging state (4.778194ms)
+✔ scope privacy filters health and location events; delete cascades (4.052001ms)
+✔ heartbeat timeout neutral timestamp and idempotent (1.156048ms)
+✔ all five locales complete and DST schedule independent of language (0.782557ms)
+✔ rate limit per authenticated user (11.762193ms)
+✔ Firebase rejects absent expired wrong issuer and unsigned tokens (0.587122ms)
+✔ Firebase verifies real RSA signature, audience, expiry and rejects forgery (45.568217ms)
+✔ production Worker never accepts demo header (0.865472ms)
+✔ S-A2 withdrawn category consent hides existing alerts and revokes pending delivery (7.405163ms)
+✔ S-A2 removed category scope or disabled preference blocks old alert read and delivery (2.523383ms)
+✔ S-A3 offline late taken acknowledgement cancels queued unconfirmed delivery and preserves history (3.071637ms)
+✔ S-A4 geofence without location is explicit, idempotent, no fabricated map and does not block following battery (2.230824ms)
+✔ S-B1 read-only caregivers cannot impersonate assisted-device telemetry (2.417574ms)
+✔ S-B2 latest human correction controls confirmation and preserves all audit events (6.700393ms)
+✔ S-B3 sync cursor traverses more than 500 events with identical received timestamps (16.664103ms)
+✔ S-B4 malformed appointment cannot poison Android sync (2.010803ms)
+ℹ tests 20
+ℹ suites 0
+ℹ pass 20
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 188.866159

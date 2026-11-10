@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clinical_title">Memoria de la consulta</string>
+    <string name="clinical_local_only">El audio, las imágenes y el texto quedan protegidos solo en este dispositivo. No hay envío automático.</string>
+    <string name="clinical_manual_asr">La transcripción automática no está instalada. Escriba o importe el texto; no se inventará contenido.</string>
+    <string name="clinical_consent">Los participantes consienten esta grabación. Se detiene al salir de esta pantalla.</string>
+    <string name="clinical_mic_ready">Micrófono permitido. Pulse Grabar para comenzar.</string>
+    <string name="clinical_mic_denied">Micrófono denegado. Puede escribir o importar texto.</string>
+    <string name="clinical_unreadable">No se pudo reconocer con seguridad. Escriba el texto original.</string>
+    <string name="clinical_ocr_review">Texto reconocido: compruebe el documento original. No se activó ningún medicamento.</string>
+    <string name="clinical_error">No se pudo completar. Compruebe el espacio y reintente.</string>
+    <string name="clinical_recording_stopped">La grabación se detuvo al salir de la pantalla.</string>
+    <string name="clinical_audio_saved">Audio protegido guardado en el dispositivo.</string>
+    <string name="clinical_stop">Detener y guardar grabación</string>
+    <string name="clinical_record">Grabar consulta</string>
+    <string name="clinical_recording_visible">Grabando — micrófono activo</string>
+    <string name="clinical_play">Escuchar último audio</string>
+    <string name="clinical_photo">Elegir imagen para OCR</string>
+    <string name="clinical_import">Importar transcripción de texto</string>
+    <string name="clinical_source">Texto original / transcripción editable</string>
+    <string name="clinical_draft">Guardar y organizar borrador</string>
+    <string name="clinical_unvalidated">Borrador no validado</string>
+    <string name="clinical_medication">Medicamentos</string>
+    <string name="clinical_exam">Pruebas</string>
+    <string name="clinical_return">Revisión</string>
+    <string name="clinical_guidance">Indicaciones</string>
+    <string name="clinical_evidence">%1$s · línea %2$d: %3$s</string>
+    <string name="clinical_no_publish">Este borrador no publica recordatorios. Un familiar debe comprobar la fuente e introducir cada elemento en la pantalla correspondiente.</string>
+    <string name="clinical_review_saved">Revisión humana registrada; no se activó ningún recordatorio.</string>
+    <string name="clinical_review">Registrar revisión del borrador</string>
+    <string name="clinical_retention">Conservar audio %1$d días; se elimina al abrir esta pantalla.</string>
+    <string name="clinical_days">%1$d días</string>
+    <string name="clinical_delete">Eliminar archivos locales de consulta</string>
+    <string name="clinical_delete_confirm">¿Eliminar definitivamente audios, imágenes, textos y borradores de este dispositivo?</string>
+    <string name="clinical_back">Volver</string>
+    <string name="clinical_cancel">Cancelar</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+<string name="edit">Editar registro</string>
+<string name="appointment_speech">Recordatorio de consulta: %1$s. Revise la preparación registrada.</string>
+<string name="single_profile">Este dispositivo mantiene un perfil a la vez. Exporte y elimine los datos locales antes de cambiar de persona.</string>
+<string name="remote_unconfirmed">Sin confirmación registrada. La sincronización puede estar retrasada.</string>
+<string name="heartbeat_alert">Sin comunicación desde %1$s. Se desconoce la causa.</string>
+<string name="charging">Cargador conectado al dispositivo</string>
+<string name="sync_error">Algunos datos no se han sincronizado. Revise el registro y pida ayuda a su familiar.</string>
+</resources>

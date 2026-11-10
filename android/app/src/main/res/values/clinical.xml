@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clinical_title">Memória da consulta</string>
+    <string name="clinical_local_only">Áudios, imagens e texto ficam protegidos somente neste aparelho. Não há envio automático.</string>
+    <string name="clinical_manual_asr">Transcrição automática não instalada. Digite ou importe uma transcrição; nenhum texto será inventado.</string>
+    <string name="clinical_consent">Os participantes concordam com esta gravação. A gravação para ao sair da tela.</string>
+    <string name="clinical_mic_ready">Microfone permitido. Toque em Gravar para começar.</string>
+    <string name="clinical_mic_denied">Microfone negado. Você pode digitar ou importar o texto.</string>
+    <string name="clinical_unreadable">Não foi possível reconhecer com segurança. Digite o texto original.</string>
+    <string name="clinical_ocr_review">Texto reconhecido: confira com o documento original. Nenhum medicamento foi ativado.</string>
+    <string name="clinical_error">Não foi possível concluir. Verifique o espaço e tente novamente.</string>
+    <string name="clinical_recording_stopped">Gravação interrompida ao sair da tela.</string>
+    <string name="clinical_audio_saved">Áudio protegido salvo no aparelho.</string>
+    <string name="clinical_stop">Parar e salvar gravação</string>
+    <string name="clinical_record">Gravar consulta</string>
+    <string name="clinical_recording_visible">Gravando — microfone ativo</string>
+    <string name="clinical_play">Ouvir último áudio</string>
+    <string name="clinical_photo">Escolher imagem para OCR</string>
+    <string name="clinical_import">Importar transcrição de texto</string>
+    <string name="clinical_source">Texto original / transcrição editável</string>
+    <string name="clinical_draft">Salvar e organizar rascunho</string>
+    <string name="clinical_unvalidated">Rascunho não validado</string>
+    <string name="clinical_medication">Medicamentos</string>
+    <string name="clinical_exam">Exames</string>
+    <string name="clinical_return">Retorno</string>
+    <string name="clinical_guidance">Orientações</string>
+    <string name="clinical_evidence">%1$s · linha %2$d: %3$s</string>
+    <string name="clinical_no_publish">Este rascunho não publica lembretes. Um familiar deve conferir a fonte e cadastrar cada item na tela correspondente.</string>
+    <string name="clinical_review_saved">Revisão humana registrada; nenhum lembrete foi ativado.</string>
+    <string name="clinical_review">Registrar revisão do rascunho</string>
+    <string name="clinical_retention">Reter áudio por %1$d dias; exclusão ao abrir esta tela.</string>
+    <string name="clinical_days">%1$d dias</string>
+    <string name="clinical_delete">Excluir arquivos locais da consulta</string>
+    <string name="clinical_delete_confirm">Excluir definitivamente áudios, imagens, textos e rascunhos deste aparelho?</string>
+    <string name="clinical_back">Voltar</string>
+    <string name="clinical_cancel">Cancelar</string>
+</resources>

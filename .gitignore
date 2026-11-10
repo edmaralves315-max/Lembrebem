@@ -1,0 +1,12 @@
+.gradle/
+**/build/
+android/local.properties
+node_modules/
+.wrangler/
+*.sqlite*
+.env
+.env.local
+*.jks
+*.keystore
+*.apk
+*.zip

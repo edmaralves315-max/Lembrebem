@@ -1,0 +1,15 @@
+<resources>
+ <string name="link_family">Family links and alerts</string>
+ <string name="invite">Create consented invitation (24 hours)</string>
+ <string name="invite_code">Single-use invitation code</string>
+ <string name="accept_invite">Accept invitation</string>
+ <string name="invite_warning">Confirm with the assisted person before inviting. Invitation allows health, consented location and alerts. Share only with the person you want to authorize.</string>
+ <string name="consent_confirmed">The assisted person agreed to this link</string>
+ <string name="refresh">Refresh links and alerts</string>
+ <string name="revoke">Revoke access</string>
+ <string name="revoke_confirm">Revoke this caregiver’s access?</string>
+ <string name="select_person">Select linked person</string>
+ <string name="alerts">Family alerts</string>
+ <string name="stop_remote">Turn off sync on this device</string>
+ <string name="remote_delete">Delete remote data (owner)</string>
+</resources>

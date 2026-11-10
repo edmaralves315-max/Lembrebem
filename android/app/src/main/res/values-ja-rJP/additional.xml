@@ -1,0 +1,9 @@
+<resources>
+<string name="edit">登録を編集</string>
+<string name="appointment_speech">診察のリマインダー：%1$s。登録した準備を確認してください。</string>
+<string name="single_profile">この端末は一度に1人のプロフィールを保存します。別の人に切り替える前にローカルデータを書き出して削除してください。</string>
+<string name="remote_unconfirmed">確認の記録がありません。同期が遅れている可能性があります。</string>
+<string name="heartbeat_alert">%1$s以降、通信がありません。原因は不明です。</string>
+<string name="charging">充電器が端末に接続されました</string>
+<string name="sync_error">一部のデータを同期できませんでした。履歴を確認して、ご家族に相談してください。</string>
+</resources>

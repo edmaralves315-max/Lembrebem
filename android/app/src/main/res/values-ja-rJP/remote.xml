@@ -1,0 +1,15 @@
+<resources>
+ <string name="link_family">家族の連携と通知</string>
+ <string name="invite">同意済み招待を作成（24時間）</string>
+ <string name="invite_code">1回限りの招待コード</string>
+ <string name="accept_invite">招待を受ける</string>
+ <string name="invite_warning">招待前に本人へ確認してください。招待は健康情報・同意済み位置情報・通知へのアクセスを許可します。許可する人だけに共有してください。</string>
+ <string name="consent_confirmed">本人がこの連携に同意しました</string>
+ <string name="refresh">連携と通知を更新</string>
+ <string name="revoke">アクセス取消</string>
+ <string name="revoke_confirm">この家族のアクセスを取り消しますか？</string>
+ <string name="select_person">連携した人を選択</string>
+ <string name="alerts">家族への通知</string>
+ <string name="stop_remote">この端末の同期を停止</string>
+ <string name="remote_delete">遠隔データを削除（所有者）</string>
+</resources>

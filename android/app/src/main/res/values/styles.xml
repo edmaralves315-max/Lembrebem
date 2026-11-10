@@ -1,0 +1,1 @@
+<resources><style name="Theme.LembreBem" parent="Theme.AppCompat.DayNight.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">true</item><item name="android:colorAccent">#075A43</item></style></resources>

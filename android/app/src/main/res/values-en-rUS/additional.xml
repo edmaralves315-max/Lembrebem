@@ -1,0 +1,9 @@
+<resources>
+<string name="edit">Edit record</string>
+<string name="appointment_speech">Appointment reminder: %1$s. Check the recorded preparation.</string>
+<string name="single_profile">This device keeps one profile at a time. Export and delete local data before switching people.</string>
+<string name="remote_unconfirmed">No confirmation recorded. Synchronization may be delayed.</string>
+<string name="heartbeat_alert">No communication since %1$s. The cause is unknown.</string>
+<string name="charging">Charger connected to device</string>
+<string name="sync_error">Some data could not be synchronized. Check the audit and ask your caregiver for help.</string>
+</resources>
